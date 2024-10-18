@@ -1,0 +1,10 @@
+.bgc{
+    background-color: rgb(200, 230, 240);
+    
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+
+    
+}

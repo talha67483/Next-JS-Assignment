@@ -1,0 +1,35 @@
+.bgc{
+    background-color: rgb(247, 247, 76);
+    color: black;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    width: 100% ;
+    left: 0;
+}
+
+.postion{
+    
+}
+
+.spread{
+    display: inline-block;
+    padding: 20px;
+}
+
+.login{
+    padding: 6px;
+   padding-left: 10px;
+   padding-right: 10px;
+   background-color: #212121;
+   color: #ffff;
+   border-radius: 6px;
+   margin-left: 20px;
+}
